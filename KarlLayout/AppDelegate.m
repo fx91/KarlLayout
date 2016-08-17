@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  KarlLayout
+//  LongImage
 //
-//  Created by fx on 16/8/18.
+//  Created by fx on 16/4/21.
 //  Copyright © 2016年 fx. All rights reserved.
 //
 
