@@ -35,3 +35,14 @@
 
 可以简单适配各个屏幕的cell样式
 
+####iphone5
+![](5.png)
+
+
+####iphone6
+![](6.png)
+
+
+####iphone6 plus
+![](6p.png)
+
